@@ -23,3 +23,10 @@ end
 group :doc do
 	gem 'sdoc', '~> 0.4.0'
 end
+
+# ================== Gem Added By VoidZero =============
+# For rails 4/5 use masterbranch of active admin 
+# TODO: Keep checking for stable active admin version
+gem 'activeadmin', github: 'activeadmin'
+
+# ======================================================
