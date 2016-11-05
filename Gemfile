@@ -28,5 +28,6 @@ end
 # For rails 4/5 use masterbranch of active admin 
 # TODO: Keep checking for stable active admin version
 gem 'activeadmin', github: 'activeadmin'
-
+# Theme for Active Admin
+gem 'active_skin'
 # ======================================================
